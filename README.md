@@ -1,4 +1,4 @@
-# <PRROJECT NAME>
+# my_mastermind
 
 ***
 
