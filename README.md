@@ -1,4 +1,4 @@
-# my_mastermind
+# my_project
 
 ***
 
@@ -29,7 +29,6 @@ Mammadu Diallo
 
 - update readme
 - setup gitactions for CICD
-- complete my_mastermind
 - figure out how to setup git to use my own qwasar key
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
